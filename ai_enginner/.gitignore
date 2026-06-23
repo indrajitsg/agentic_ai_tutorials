@@ -178,3 +178,6 @@ products_vectorstore/
 
 # ignore diagnostics reports
 **/report.txt
+
+# SVG Image outputs
+svg_outputs/
